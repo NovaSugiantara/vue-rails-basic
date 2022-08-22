@@ -55,6 +55,7 @@ group :development do
   gem "rb-readline"
   gem "minitest"
   gem "rack-test"
+  gem "foreman"
 end
 
 
